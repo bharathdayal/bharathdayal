@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bharath Dayal Shantharam</h1>
 <h3 align="center">Lead Java Developer- With over 16 years of experience in the software development field, I have developed a strong ability to design, build, and maintain robust backend systems for large-scale web applications that meet the needs of millions of users globally. My background in Java, Spring Boot, Python, and SQL has equipped me with the technical expertise required to create high performance, scalable, and secure solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathdayal&label=Profile%20views&color=0e75b6&style=flat" alt="bharathdayal" /> </p>
-
-- 💬 Ask me about **Microservices, Cloud solutions**
 
 - 📫 How to reach me **bharathdayals@gmail.com**
 
